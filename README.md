@@ -72,3 +72,7 @@ http://localhost:8080/
 
 
 Give User ID and password and enjoy it !
+
+CHECK THE VIDEO FOR STEP BY STEP INSTALLATION:
+
+https://www.youtube.com/watch?v=aJbCyAU2270&feature=youtu.be
